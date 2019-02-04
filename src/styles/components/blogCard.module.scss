@@ -16,13 +16,14 @@
         padding: 15px;
         .title {
             padding-bottom: 20px;
-            h2{
-                font-size: 28px;
-                line-height: 40px;
-                font-weight: normal;
-                color: #4B4B4B;
-                font-family: 'Raleway', sans-serif;
-            }
+            font-size: 28px;
+            line-height: 40px;
+            font-weight: normal;
+            color: #4B4B4B;
+            font-family: 'Raleway', sans-serif;
+        }
+        :hover {
+            color: #57bdad;
         }
         .date {
             background: url(https://lh6.googleusercontent.com/--Swg3CGdbU8/UcPyAEV2cUI/AAAAAAAAB7M/0eEnNgsMq2c/s16/meta_time.png) no-repeat scroll left center rgba(0, 0, 0, 0);
