@@ -1,6 +1,6 @@
 .AuthorInfoContainer {
     width: 1150px;
-    margin: 0 auto;
+    margin: 25px auto;
     padding: 15px;
     background-position: center center;
     background-color: #fafafa;
@@ -9,14 +9,15 @@
     border-bottom: 4px solid #75C3B7;
     .authorInfo {
         margin: 10px 20px;
-        background-color: rgba(255, 255, 255, 0.34);
         padding: 20px;
         display: flex;
         justify-content: space-between;
         .authorImage {
+            background-color: rgba(255, 255, 255, 0.34);
+            padding: 10px;
             img {
                 border-radius: 100%;
-                width: 160px;
+                width: 130px;
                 object-fit: cover;
             }
         }

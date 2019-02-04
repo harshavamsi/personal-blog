@@ -10,7 +10,6 @@ class BlogCardContainer extends React.Component {
                 <BlogCard></BlogCard>
                 <BlogCard></BlogCard>
                 <BlogCard></BlogCard>
-                <BlogCard></BlogCard>
             </div>
         );
     }
